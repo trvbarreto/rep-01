@@ -1,0 +1,30 @@
+body {
+    font-family: 'Courier New', Courier, monos  pace;
+    background-color: #141420;
+    text-align: center;
+    color: rgb(200, 200, 200);
+}
+
+h1 {
+    font-size: 50px;
+}
+
+a {
+    color: #a1a121;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+img {
+    height: 400px;
+    width: auto;
+}
+
+h2 {
+    color: #a1a121;
+    text-align: justify;
+}
+
+ul, ol, p {
+    text-align: justify;
+}
